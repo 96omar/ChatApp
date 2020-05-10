@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "5155900956",
+    "firebase_url": "https://companychat-99e72.firebaseio.com",
+    "project_id": "companychat-99e72",
+    "storage_bucket": "companychat-99e72.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:5155900956:android:75d53fb4bcffcd1c",
+        "android_client_info": {
+          "package_name": "com.SevenDigITs.Solutions.CompanyChat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "5155900956-1u50i3fjscpm34q948fik5t6qa2tgksp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.SevenDigITs.Solutions.CompanyChat",
+            "certificate_hash": "f0e3b1c04e4ea62f883536b20388c222e4d3fbd4"
+          }
+        },
+        {
+          "client_id": "5155900956-fra400s3pr9emqusm9n4g735521a2khp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPEuH_X47p7cZW9plJoAr1bZAOW5yq9yI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "5155900956-fra400s3pr9emqusm9n4g735521a2khp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
